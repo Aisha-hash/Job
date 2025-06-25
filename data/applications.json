@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "companyName": "TechNova Inc.",
+    "title": "Frontend Developer",
+    "jobLocation": "San Francisco, CA",
+    "jobStatus": "To Apply",
+    "comments": "Looks like a great startup with growth potential."
+  },
+  {
+    "id": 2,
+    "companyName": "HealthSync",
+    "title": "Backend Engineer",
+    "jobLocation": "Remote",
+    "jobStatus": "To Apply",
+    "comments": "Applied via LinkedIn last week."
+  },
+  {
+    "id": 3,
+    "companyName": "EduCore",
+    "title": "Full Stack Developer",
+    "jobLocation": "Austin, TX",
+    "jobStatus": "To Apply",
+    "comments": "Need to tailor resume for edtech."
+  },
+  {
+    "id": 5,
+    "companyName": "GreenLoop",
+    "title": "React Developer",
+    "jobLocation": "Denver, CO",
+    "jobStatus": "To Apply",
+    "comments": "Waiting for referral from Sam."
+  },
+  {
+    "id": 6,
+    "companyName": "SecureNet",
+    "title": "Cybersecurity Analyst",
+    "jobLocation": "Washington, D.C.",
+    "jobStatus": "To Apply",
+    "comments": "Phone interview scheduled for Friday."
+  },
+  {
+    "id": 7,
+    "companyName": "CloudBridge",
+    "title": "Cloud Architect",
+    "jobLocation": "Remote",
+    "jobStatus": "To Apply",
+    "comments": "Check if AWS cert is a must."
+  },
+  {
+    "id": 8,
+    "companyName": "DataHive",
+    "title": "Data Scientist",
+    "jobLocation": "Chicago, IL",
+    "jobStatus": "Applied",
+    "comments": "Completed take-home assignment."
+  },
+  {
+    "id": 9,
+    "companyName": "Buildify",
+    "title": "Software Engineer",
+    "jobLocation": "Seattle, WA",
+    "jobStatus": "To Apply",
+    "comments": "Looks like a good match for my skills."
+  },
+  {
+    "id": 10,
+    "companyName": "MedTrack",
+    "title": "QA Engineer",
+    "jobLocation": "Boston, MA",
+    "jobStatus": "Applied",
+    "comments": "Heard back from HR, waiting for next step."
+  },
+  {
+    "companyName": "Concentrix ",
+    "title": "sdfg",
+    "jobLocation": "dfg",
+    "jobStatus": "Interview Scheduled",
+    "jobUrl": "dfgdg",
+    "comments": "2.3",
+    "id": 1750841131522
+  }
+]
