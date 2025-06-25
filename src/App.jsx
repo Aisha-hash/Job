@@ -3,7 +3,7 @@ import { Route, Routes } from "react-router-dom";
 import Homepage from "./pages/Homepage";
 
 import ViewJob from "./pages/ViewJob";
-import AddNewJob from "./pages/addNewJob";
+import AddNewJob from "./pages/AddNewJob";
 
 /**
  * App component is the root of the application.
