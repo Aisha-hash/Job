@@ -4,6 +4,7 @@ import Homepage from "./pages/Homepage";
 
 import ViewJob from "./pages/ViewJob";
 import AddNewJob from "./pages/AddNewJob";
+import ViewGraph from "./pages/ViewGraph";
 
 /**
  * App component is the root of the application.
@@ -29,6 +30,7 @@ function App() {
           <Route path="/addJob" element={<AddNewJob />} />
           <Route path="/job/:id" element={<ViewJob />} />
           <Route path="/editJob/:id" element={<AddNewJob />} />
+          <Route path="/viewGraph" element={<ViewGraph />} />
         </Routes>
       </div>
     </div>
