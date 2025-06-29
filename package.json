@@ -10,11 +10,13 @@
     "preview": "vite preview",
     "start": "node server.js"
   },
-  
   "dependencies": {
+    "@highcharts/react": "^4.0.0-beta.4",
     "@tailwindcss/vite": "^4.1.6",
     "express": "^5.1.0",
     "fs": "^0.0.1-security",
+    "highcharts": "^12.3.0",
+    "highcharts-react-official": "^3.2.2",
     "lucide-react": "^0.510.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",

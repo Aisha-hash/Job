@@ -15,10 +15,12 @@ const Navbar = () => {
         Add Jobs
       </Link>
 
-      <button className="btn btn-outline bg-black text-white">
-        <GalleryVerticalEnd className="w-5 h-5 text-white" />
-        View Graph
-      </button>
+      <Link to={"/viewGraph"}>
+        <button className="btn btn-outline bg-black text-white">
+          <GalleryVerticalEnd className="w-5 h-5 text-white" />
+          View Graph
+        </button>
+      </Link>
     </div>
   );
 };
